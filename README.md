@@ -264,6 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONLog](https://jsonlog.io/docs) - Logging and visualization of JSON from any client.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
+* [JSON Hero](https://jsonhero.io) - A beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
